@@ -1,0 +1,341 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFContent.swift",
+      "line": 14,
+      "symbol": "CustomTFContent.width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFContent.swift",
+      "line": 15,
+      "symbol": "CustomTFContent.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFContent.swift",
+      "line": 17,
+      "symbol": "CustomTFContent.isShowTrailingContent",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFContent.swift",
+      "line": 18,
+      "symbol": "CustomTFContent.leadingContent",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFContent.swift",
+      "line": 19,
+      "symbol": "CustomTFContent.trailingContent",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFContentProtocol.swift",
+      "line": 14,
+      "symbol": "CustomTFContentProtocol.LeadingContent",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFContentProtocol.swift",
+      "line": 15,
+      "symbol": "CustomTFContentProtocol.TrailingContent",
+      "symbol_kind": "source.lang.swift.decl.associatedtype",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFContentProtocol.swift",
+      "line": 17,
+      "symbol": "CustomTFContentProtocol.width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFContentProtocol.swift",
+      "line": 18,
+      "symbol": "CustomTFContentProtocol.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFContentProtocol.swift",
+      "line": 22,
+      "symbol": "CustomTFContentProtocol.isShowTrailingContent",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFContentProtocol.swift",
+      "line": 24,
+      "symbol": "CustomTFContentProtocol.leadingContent",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFContentProtocol.swift",
+      "line": 25,
+      "symbol": "CustomTFContentProtocol.trailingContent",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFFormatProtocol.swift",
+      "line": 28,
+      "symbol": "CustomTFFormatType.init(validSymbolsAmount:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFFormatProtocol.swift",
+      "line": 37,
+      "symbol": "CustomTFFormatType.init(validSymbolsAmount:inputType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFFormatProtocol.swift",
+      "line": 47,
+      "symbol": "CustomTFFormatType.init(textFormat:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFFormatProtocol.swift",
+      "line": 56,
+      "symbol": "CustomTFFormatType.init(onChangeOfText:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFProtocol.swift",
+      "line": 15,
+      "symbol": "CustomTFFormat.formatPhone",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/CustomTF/CustomTFProtocol.swift",
+      "line": 16,
+      "symbol": "CustomTFFormat.formatText(mask:symbol:inputType:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/DecoratedTF/CurrencyTextField.swift",
+      "line": 36,
+      "symbol": "CurrencyTextField.init(totalInput:currencySymbol:textColor:isEditing:placeholder:width:height:alwaysShowFractions:onTap:onChangeOfIsEditing:hideKeyboard:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/DecoratedTF/DateTextField.swift",
+      "line": 33,
+      "symbol": "DateTextField.init(date:formatter:textColor:isEditing:placeholder:width:height:onTap:onChangeOfIsEditing:hideKeyboard:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/DecoratedTF/StandartTextField.swift",
+      "line": 36,
+      "symbol": "StandartTextField.init(text:textColor:isEditing:placeholder:width:height:keyboardType:isShowSecureField:onlyNumbers:validSymbolsAmount:formatType:commit:onTap:onChangeOfIsEditing:hideKeyboard:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/Support/DecimalTextField.swift",
+      "line": 13,
+      "symbol": "DecimalTextField",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/Support/DecimalTextField.swift",
+      "line": 44,
+      "symbol": "DecimalTextField.init(_:value:isResponder:tag:alwaysShowFractions:numberOfDecimalPlaces:currencySymbol:font:foregroundColor:accentColor:textAlignment:contentType:autocorrection:autocapitalization:keyboardType:returnKeyType:isSecure:isUserInteractionEnabled:clearsOnBeginEditing:onReturn:onEditingChanged:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/Support/DecimalTextField.swift",
+      "line": 192,
+      "symbol": "DecimalTextField.Coordinator.textField(_:shouldChangeCharactersIn:replacementString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/Support/DecimalTextField.swift",
+      "line": 263,
+      "symbol": "DecimalTextField.Coordinator.textFieldDidBeginEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/Support/DecimalTextField.swift",
+      "line": 269,
+      "symbol": "DecimalTextField.Coordinator.textFieldDidEndEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Fields/Support/DecimalTextField.swift",
+      "line": 284,
+      "symbol": "DecimalTextField.Coordinator.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Modifiers/BorderTFStyle/BorderTFStyleProtocol.swift",
+      "line": 15,
+      "symbol": "BorderStyles.standart",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Modifiers/BorderTFStyle/BorderTFStyleProtocol.swift",
+      "line": 16,
+      "symbol": "BorderStyles.selected",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Modifiers/BorderTFStyle/BorderTFStyleProtocol.swift",
+      "line": 17,
+      "symbol": "BorderStyles.error",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 11,
+      "symbol": "TextFieldSampleView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 32,
+      "symbol": "TextFieldSampleView.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 47,
+      "symbol": "TextFieldSampleView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 48,
+      "symbol": "TextFieldSampleView.standartTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 56,
+      "symbol": "TextFieldSampleView.tenSymbolsLimitTF",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 83,
+      "symbol": "TextFieldSampleView.cardNumberTF",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 111,
+      "symbol": "TextFieldSampleView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 112,
+      "symbol": "TextFieldSampleView.currencyTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 147,
+      "symbol": "TextFieldSampleView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 148,
+      "symbol": "TextFieldSampleView.dateTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 185,
+      "symbol": "TextFieldSampleView",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 186,
+      "symbol": "TextFieldSampleView.leadingButtons",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 193,
+      "symbol": "TextFieldSampleView.trailingButtons",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 200,
+      "symbol": "TextFieldSampleView.clearCardNumberButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 204,
+      "symbol": "TextFieldSampleView.clearTextButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 208,
+      "symbol": "TextFieldSampleView.clearNumberButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Sample/TextFieldSampleView.swift",
+      "line": 219,
+      "symbol": "TextFieldSampleView.clearDateButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_textfields/garpix_textfields/Sources/GXTextField/Views/ClearTextButton.swift",
+      "line": 16,
+      "symbol": "ClearTextButton.init(clearingText:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/garpix_textfields/garpix_textfields"
+}
